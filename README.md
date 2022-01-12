@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevByDJ
-- 👀 I’m interested in Software Engineering, AR/VR Development and Gaming.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently developing Python, SQL and C++ Projects
+- 💞️ I’m looking to collaborate on ANDROID/IOS and CLOUD application.
 - 📫 How to reach me - EMAIL: DjosephNP@gmail.com
 
 <!---
