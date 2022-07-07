@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevByDJ
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently developing Python, SQL and C++ Projects
+- 👀 I’m studying Software Engineering.
+- 🌱 I’m currently developing in Python, JavaScript and C++ Projects
 - 💞️ I’m looking to collaborate on ANDROID/IOS and CLOUD application.
 - 📫 How to reach me - EMAIL: DjosephNP@gmail.com
 
