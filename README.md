@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevByDJ
 - 👀 I’m studying Software Engineering.
-- 🌱 I’m currently developing in Python, JavaScript and C++ Projects
+- 🌱 I’m currently developing in JavaScript and C++/C# Projects
 -  I’m looking to become a Backend Software Engineer
 - 📫 How to reach me - EMAIL: DjosephNP@gmail.com
 
