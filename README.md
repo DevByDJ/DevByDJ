@@ -14,7 +14,7 @@ Joined Github **3** years ago.
 Since then I pushed **471**+ commits, opened **87**+ issues, submitted **59**+ pull requests and contributed to **25**+ public repositories.
 
 
-<img align="right" height="250" width="375" alt="" src="https://tenor.com/view/linus-tech-tips-ltt-bug-gif-19900847" /> 
+<img align="right" height="250" width="375" alt="" src="https://media1.tenor.com/m/ac26GulKDIoAAAAd/linus-tech.gif" /> 
 
 ### Talking about Personal Stuff:
 
